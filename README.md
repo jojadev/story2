@@ -1,1 +1,1 @@
-# story2
+# story2 - goofy git learning project
